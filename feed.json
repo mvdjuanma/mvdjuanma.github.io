@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Juanma Garcia",
+    "description": "",
+    "home_page_url": "https://juanmagarcia.me",
+    "feed_url": "https://juanmagarcia.me/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Juanma Garcia"
+    },
+    "items": [
+        {
+            "id": "https://juanmagarcia.me/posts/post-de-prueba/",
+            "url": "https://juanmagarcia.me/posts/post-de-prueba/",
+            "title": "Post de prueba",
+            "summary": "Este es un post de prueba De verdad",
+            "content_html": "<p>Este es un post de prueba</p>\n<p> </p>\n<h1>En serio</h1>\n<p> </p>\n<h2>opción 1</h2>\n<p> </p>\n<p>De verdad</p>",
+            "image": "https://juanmagarcia.me/media/posts/2/nathan-dumlao-bq7OAcv_s7c-unsplash.jpg",
+            "author": {
+                "name": "Juanma Garcia"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-09-27T21:51:27+02:00",
+            "date_modified": "2024-09-27T21:59:26+02:00"
+        }
+    ]
+}

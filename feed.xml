@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Juanma Garcia</title>
+    <link href="https://juanmagarcia.me/feed.xml" rel="self" />
+    <link href="https://juanmagarcia.me" />
+    <updated>2024-09-27T21:59:26+02:00</updated>
+    <author>
+        <name>Juanma Garcia</name>
+    </author>
+    <id>https://juanmagarcia.me</id>
+
+    <entry>
+        <title>Post de prueba</title>
+        <author>
+            <name>Juanma Garcia</name>
+        </author>
+        <link href="https://juanmagarcia.me/posts/post-de-prueba/"/>
+        <id>https://juanmagarcia.me/posts/post-de-prueba/</id>
+        <media:content url="https://juanmagarcia.me/media/posts/2/nathan-dumlao-bq7OAcv_s7c-unsplash.jpg" medium="image" />
+
+        <updated>2024-09-27T21:51:27+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://juanmagarcia.me/media/posts/2/nathan-dumlao-bq7OAcv_s7c-unsplash.jpg" alt="" />
+                    Este es un post de prueba De verdad
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://juanmagarcia.me/media/posts/2/nathan-dumlao-bq7OAcv_s7c-unsplash.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Este es un post de prueba</p>
+<p> </p>
+<h1>En serio</h1>
+<p> </p>
+<h2>opción 1</h2>
+<p> </p>
+<p>De verdad</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
